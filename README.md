@@ -12,7 +12,5 @@ The file `roboDK3D.rdk` is the 3D environment file for RoboDK, which contains th
 ## Node-RED Flow
 The file `nodered_flow.json` contains the Node-RED flow responsible for subscribing to the data via MQTT. This flow performs the data conversion, displays the dashboard graphics, and sends the data to the Firestore cloud storage.
 
-## IDEF0 Diagrams and DT Methodology
-The file `index.html` and the folder `IDEF0 DT Robotic Additive Manufacturing` contain the IDEF0 diagrams developed as the methodology for the creation and explanation of the Digital Twin (DT) of the robotic additive manufacturing cell. These diagrams can also be accessed at the following link: [IDEF0 DT Robotic Additive Manufacturing Cell](https://brayanfigueroa8.github.io/DT-Robotic-Additive-Manufacturing-Cell/).
 
 
